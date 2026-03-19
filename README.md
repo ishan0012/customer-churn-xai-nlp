@@ -29,5 +29,5 @@ This project addresses the "Black Box" problem in Customer Churn prediction. By 
 
 ## 📊 Results & Visualization
 The model achieved an **ROC-AUC of 0.85+**. Below is the SHAP summary plot showing how features like 'MonthlyCharges' and 'Sentiment' impact the churn probability:
+<img width="963" height="826" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/2bb7b5d9-d665-4ef2-8326-92a0dcdbef1d" />
 
-(Insert your SHAP plot screenshot here)
